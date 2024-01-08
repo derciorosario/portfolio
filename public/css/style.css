@@ -48,7 +48,7 @@ body::-webkit-scrollbar{
      width: 4px;
      border-radius: 1rem; 
   
-  }	
+}	
   section{
      min-height: 100vh;
   }
@@ -603,7 +603,7 @@ margin: 4rem 1rem;
 }
 
 .skills .languages .lang div span{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .skills .languages .lang div svg circle{
@@ -617,19 +617,19 @@ margin: 4rem 1rem;
     font-family: 1.1rem;
 }
 .skills .languages .lang:nth-child(1) svg:nth-child(2) circle{
-    stroke-dasharray:210;
+    stroke-dasharray:370;
 }
 .skills .languages .lang:nth-child(2) svg:nth-child(2) circle{
-    stroke-dasharray:230;
+    stroke-dasharray:370;
 }
 .skills .languages .lang:nth-child(3) svg:nth-child(2) circle{
-    stroke-dasharray:200;
+    stroke-dasharray:360;
 }
 .skills .languages .lang:nth-child(4) svg:nth-child(2) circle{
-    stroke-dasharray:190;
+    stroke-dasharray:350;
 }
 .skills .languages .lang:nth-child(5) svg:nth-child(2) circle{
-    stroke-dasharray:210;
+    stroke-dasharray:360;
 }
 
 
